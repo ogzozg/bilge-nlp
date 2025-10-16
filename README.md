@@ -2,7 +2,7 @@
 
 > *Inspired by the wisdom etched in stone by Bilge Khagan, this project aims to unlock the linguistic secrets of Old Turkic using modern Natural Language Processing techniques.*
 
-**Bilge-NLP** is an open-source initiative to build a complete toolkit for the computational analysis of the language of the Turkic Runic inscriptions.
+**Bilge-NLP** is an open-source initiative to build a complete toolkit for the computational analysis of the language of the Turkic inscriptions.
 
 ---
 
